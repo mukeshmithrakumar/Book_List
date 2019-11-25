@@ -14,3 +14,7 @@ If you are looking for courses to take to Learn Machine Learning, check out [Lea
 If you are working on HackerRank to Improve your coding skills, check out my [HackerRankSolutions](https://github.com/mukeshmithrakumar/HackerRankSolutions) for Python, Java, C, C++, Shell, SQL, JavaScript and Interview Preparation Kit Solutions.
 
 Finally, Deep Learning, if you want to learn Deep Learning with Tensorflow, take a look at [DeepLearningWithTF2.0](https://github.com/adhiraiyan/DeepLearningWithTF2.0)
+
+<h2>Books</h2>
+
+- [Data Science from Scratch by Steven Cooper](https://github.com/mukeshmithrakumar/Book_List/blob/master/Data%20Science%20from%20Scratch.pdf)
