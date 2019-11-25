@@ -2,18 +2,17 @@
 
 <h1 id="HackerRankSolutions" align="center" >Book List</h1>
 
-Follow me on 
-<a href="https://www.facebook.com/adhiraiyan/"><img src="https://img.shields.io/badge/Facebook-brightgreen.svg?" alt="Facebook"></a> 
-<a href="https://www.linkedin.com/in/mukesh-mithrakumar/"><img src="https://img.shields.io/badge/LinkedIn-blue.svg?" alt="LinkedIn"></a> 
-or 
+⭐️ New Content Every Week ❗
+
+Put a ⭐️ if you find this repo usefull and follow me on 
 <a href="https://github.com/mukeshmithrakumar/"><img src="https://img.shields.io/badge/GitHub-Black.svg?" alt="GitHub"></a>
 to get notified when I upload new content.
 
-If you are looking for courses to take to Learn Machine Learning, check out [Learn_ML_in_6_Months](https://github.com/mukeshmithrakumar/Learn_ML_in_6_Months).
+ 💫 If you are looking for courses to take to Learn Machine Learning, check out [Learn_ML_in_6_Months](https://github.com/mukeshmithrakumar/Learn_ML_in_6_Months).
 
-If you are working on HackerRank to Improve your coding skills, check out my [HackerRankSolutions](https://github.com/mukeshmithrakumar/HackerRankSolutions) for Python, Java, C, C++, Shell, SQL, JavaScript and Interview Preparation Kit Solutions.
+💫 If you are working on HackerRank to Improve your coding skills, check out my [HackerRankSolutions](https://github.com/mukeshmithrakumar/HackerRankSolutions) for Python, Java, C, C++, Shell, SQL, JavaScript and Interview Preparation Kit Solutions.
 
-Finally, Deep Learning, if you want to learn Deep Learning with Tensorflow, take a look at [DeepLearningWithTF2.0](https://github.com/adhiraiyan/DeepLearningWithTF2.0)
+💫 If you want to learn Deep Learning with Tensorflow, take a look at [DeepLearningWithTF2.0](https://github.com/adhiraiyan/DeepLearningWithTF2.0)
 
 <h2>Books</h2>
 
