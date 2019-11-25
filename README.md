@@ -2,17 +2,23 @@
 
 <h1 id="HackerRankSolutions" align="center" >Book List</h1>
 
-⭐️ New Content Every Week ❗
+<h2>⭐️ New Content Every Week ❗</h2>
 
-Put a ⭐️ if you find this repo usefull and follow me on 
+<h3>Put a ⭐️ if you find this repo usefull and follow me on
 <a href="https://github.com/mukeshmithrakumar/"><img src="https://img.shields.io/badge/GitHub-Black.svg?" alt="GitHub"></a>
 to get notified when I upload new content.
 
- 💫 If you are looking for courses to take to Learn Machine Learning, check out [Learn_ML_in_6_Months](https://github.com/mukeshmithrakumar/Learn_ML_in_6_Months).
+***
+ <h3>💫 If you are looking for courses to take to Learn Machine Learning, check out <a href="https://github.com/mukeshmithrakumar/Learn_ML_in_6_Months">Learn_ML_in_6_Months</a>.</h3>
 
-💫 If you are working on HackerRank to Improve your coding skills, check out my [HackerRankSolutions](https://github.com/mukeshmithrakumar/HackerRankSolutions) for Python, Java, C, C++, Shell, SQL, JavaScript and Interview Preparation Kit Solutions.
+***
 
-💫 If you want to learn Deep Learning with Tensorflow, take a look at [DeepLearningWithTF2.0](https://github.com/adhiraiyan/DeepLearningWithTF2.0)
+<h3>💫 If you are working on HackerRank to Improve your coding skills, check out my <a href="https://github.com/mukeshmithrakumar/HackerRankSolutions">HackerRankSolutions</a> for Python, Java, C, C++, Shell, SQL, JavaScript and Interview Preparation Kit Solutions.</h3>
+
+***
+<h3>💫 If you want to learn Deep Learning with Tensorflow, take a look at <a href="https://github.com/adhiraiyan/DeepLearningWithTF2.0">DeepLearningWithTF2.0</a></h3>
+
+</h3>
 
 <h2>Books</h2>
 
