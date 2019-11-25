@@ -18,3 +18,4 @@ Finally, Deep Learning, if you want to learn Deep Learning with Tensorflow, take
 <h2>Books</h2>
 
 - [Data Science from Scratch by Steven Cooper](https://github.com/mukeshmithrakumar/Book_List/blob/master/Data%20Science%20from%20Scratch.pdf)
+- [Data Science Tutorial Library](https://github.com/mukeshmithrakumar/Book_List/blob/master/Data%20Science%20Tutorial%20Library.pdf)
