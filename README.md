@@ -12,7 +12,6 @@ to get notified when I upload new content.
 
 - [Data Science from Scratch by Steven Cooper](https://github.com/mukeshmithrakumar/Book_List/blob/master/Data%20Science%20from%20Scratch.pdf)
 - [Data Science Tutorial Library](https://github.com/mukeshmithrakumar/Book_List/blob/master/Data%20Science%20Tutorial%20Library.pdf)
-- [Deep Learning with PyTorch](https://github.com/mukeshmithrakumar/Book_List/blob/master/Deep%20Learning%20with%20PyTorch.pdf)
 - [Deep learning Masterpiece by Andrew Ng](https://github.com/mukeshmithrakumar/Book_List/blob/master/Deep%20learning%20Masterpiece%20by%20Andrew%20Ng.pdf)
 - [Introduction to Machine Learning](https://github.com/mukeshmithrakumar/Book_List/blob/master/Introduction%20to%20Machine%20Learning.pdf)
 
