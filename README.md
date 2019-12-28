@@ -14,6 +14,11 @@ to get notified when I upload new content.
 - [Data Science Tutorial Library](https://github.com/mukeshmithrakumar/Book_List/blob/master/Data%20Science%20Tutorial%20Library.pdf)
 - [Deep learning Masterpiece by Andrew Ng](https://github.com/mukeshmithrakumar/Book_List/blob/master/Deep%20learning%20Masterpiece%20by%20Andrew%20Ng.pdf)
 - [Introduction to Machine Learning](https://github.com/mukeshmithrakumar/Book_List/blob/master/Introduction%20to%20Machine%20Learning.pdf)
+- [30000 questions](https://github.com/mukeshmithrakumar/Book_List/blob/master/30000%20questions.pdf)
+- [7 Data science / Machine Learning Cheatsheets in one](https://github.com/mukeshmithrakumar/Book_List/blob/master/Data%20science%20Machine%20Learning%20Cheatsheets.pdf)
+- [Machine learning and Deep learning](https://github.com/mukeshmithrakumar/Book_List/blob/master/Machine%20learning%20and%20Deep%20learning.pdf)
+- [Language Processing and Python](https://github.com/mukeshmithrakumar/Book_List/blob/master/Language%20Processing%20and%20Python.pdf)
+- [Learning Pandas](https://github.com/mukeshmithrakumar/Book_List/blob/master/Learning%20Pandas.pdf)
 
 ***
  <h3>💫 If you are looking for courses to take to Learn Machine Learning, check out <a href="https://github.com/mukeshmithrakumar/Learn_ML_in_6_Months">Learn_ML_in_6_Months</a>.</h3>
