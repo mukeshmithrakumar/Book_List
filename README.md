@@ -19,6 +19,14 @@ to get notified when I upload new content.
 - [Machine learning and Deep learning](https://github.com/mukeshmithrakumar/Book_List/blob/master/Machine%20learning%20and%20Deep%20learning.pdf)
 - [Language Processing and Python](https://github.com/mukeshmithrakumar/Book_List/blob/master/Language%20Processing%20and%20Python.pdf)
 - [Learning Pandas](https://github.com/mukeshmithrakumar/Book_List/blob/master/Learning%20Pandas.pdf)
+- [Think Stats](https://github.com/mukeshmithrakumar/Book_List/blob/master/Think%20Stats.pdf)
+- [Rules of Machine Learning](https://github.com/mukeshmithrakumar/Book_List/blob/master/Rules%20of%20Machine%20Learning.pdf)
+- [Python Machine Learning Projects](https://github.com/mukeshmithrakumar/Book_List/blob/master/Python%20Machine%20Learning%20Projects.pdf)
+- [Dive into Deep Learning](https://github.com/mukeshmithrakumar/Book_List/blob/master/Dive%20into%20Deep%20Learning.pdf)
+- [Machine Learning for marketers](https://github.com/mukeshmithrakumar/Book_List/blob/master/Machine%20Learning%20for%20marketers.pdf)
+- [Statistical foundations of machine learning](https://github.com/mukeshmithrakumar/Book_List/blob/master/Statistical%20foundations%20of%20machine%20learning.pdf)
+- [Python code for Artificial Intelligence](https://github.com/mukeshmithrakumar/Book_List/blob/master/Python%20code%20for%20Artificial%20Intelligence.pdf)
+- [Fundamentals of Python](https://github.com/mukeshmithrakumar/Book_List/blob/master/Fundamentals%20of%20Python.pdf)
 
 ***
  <h3>💫 If you are looking for courses to take to Learn Machine Learning, check out <a href="https://github.com/mukeshmithrakumar/Learn_ML_in_6_Months">Learn_ML_in_6_Months</a>.</h3>
